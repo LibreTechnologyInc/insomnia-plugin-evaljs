@@ -1,0 +1,20 @@
+{
+    "name": "insomnia-plugin-evaljs",
+    "description": "Eval JS input with access to environment context",
+    "license": "MIT",
+    "version": "1.0.0",
+    "author": {
+        "name": "Matt Sutkowski",
+        "email": "msutkowski@gmail.com",
+        "url": "https://github.com/LibreTechnologyInc/insomnia-plugin-evaljs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LibreTechnologyInc/insomnia-plugin-evaljs"
+    },
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "evaljs",
+        "description": "Eval JS code with access to environment variables"
+    }
+}
